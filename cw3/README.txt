@@ -1,4 +1,4 @@
 1. Link to github repository
-https://github.com/kt712/Grp3
+https://github.com/umarfarukbalarabe/groupcw3
 2. Link to github pages
-https://kt712.github.io/Grp3/
+https://umarfarukbalarabe.github.io/groupcw3/
